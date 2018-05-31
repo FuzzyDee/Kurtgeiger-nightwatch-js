@@ -1,0 +1,14 @@
+{
+  "name": "kurtgeiger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "node nightwatch "
+  },
+  "author": "Dudley Cowan",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.21"
+  }
+}
